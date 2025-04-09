@@ -2,7 +2,7 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>member index</div>
+    <div className='text-2xl'>member index</div>
   )
 }
 

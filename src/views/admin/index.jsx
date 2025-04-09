@@ -2,8 +2,8 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>admin index</div>
+    <div className='text-2xl font-semibold'>admin index</div>
   )
 }
 
-export default index
+export default index;
