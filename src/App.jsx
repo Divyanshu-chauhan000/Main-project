@@ -1,8 +1,9 @@
 import React from 'react'
-
+import { RouterProvider  } from 'react-router-dom'
+import router from './routers'
 const App = () => {
   return (
-    <div className='text-5xl text-center font-bold'>App</div>
+   <RouterProvider router={router} />
   )
 }
 
