@@ -10,7 +10,7 @@ const AdminRoute ={
   {
     path : '/admin',
     element : <AdminLanding/>,
-  },
+  }
  ],
 };
 
